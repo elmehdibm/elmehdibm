@@ -55,4 +55,4 @@ Passionate about the intersection of mathematics and technology! Chess enthusias
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges
+                    </a></p>
