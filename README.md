@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-This is Mehdi
 =============================================================================================================================
 
-Lead Developer
+This is Mehdi, Lead Developer
 --------------
 
 Passionate about the intersection of mathematics and technology! Chess enthusiast and avid traveler, I explore diverse cultures. I thrive on collaborative projects, focusing on Javascript Ecosystem. I ventured into the tech startup world, eventually leading the Tech at MaVoie.org. Fascinated by AI, my goal is to contribute to impactful projects. #TechEnthusiast #SaaS #MicroSaaS #AI #StartupLeader 🚀
