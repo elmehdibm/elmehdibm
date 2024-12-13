@@ -7,7 +7,7 @@ This is Mehdi, Lead Developer at MaVoie.org
 Passionate about the intersection of mathematics and technology! Chess enthusiast and avid traveler to explore diverse cultures. I thrive on collaborative projects, focusing on Javascript Ecosystem. I ventured into the tech startup world, eventually leading the Tech at MaVoie.org. Fascinated by AI, my goal is to contribute to impactful projects. #TechEnthusiast #SaaS #MicroSaaS #AI #StartupLeader 🚀
 
 *   🌍  I'm based in Paris
-*   🖥️  See my portfolio at [TechMehdi](http://techmehdi.com)
+*   🖥️  See my portfolio at [ElMehdi](https://elmehdi.net)
 *   ✉️  You can contact me at [boumhicha.elmehdi@gmail.com](mailto:boumhicha.elmehdi@gmail.com)
 
 <a href="https://www.x.com/el__mehdi__" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/el__mehdi__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
