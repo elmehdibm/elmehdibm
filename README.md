@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 This is Mehdi, Lead Developer at MaVoie.org
 --------------
 
-Passionate about the intersection of mathematics and technology! Chess enthusiast and avid traveler to explore diverse cultures. I thrive on collaborative projects, focusing on Javascript Ecosystem. I ventured into the tech startup world, eventually leading the Tech at MaVoie.org. Fascinated by AI, my goal is to contribute to impactful projects. #TechEnthusiast #SaaS #MicroSaaS #AI #StartupLeader 🚀
+Passionate about the intersection of mathematics and technology! Chess enthusiast and avid traveler to explore diverse cultures. I thrive on collaborative projects, focusing on Javascript Ecosystem. I ventured into the tech startup world, eventually leading the Tech at MaVoie.org. Fascinated by AI, my goal is to contribute to impactful projects. #TechEnthusiast #AI #StartupLeader #SaaS #MicroSaaS #SocialImpact 🚀
 
 *   🌍  I'm based in Paris
 *   🖥️  See my portfolio at [ElMehdi](https://elmehdi.net)
